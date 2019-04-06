@@ -67,4 +67,7 @@ prose:
           - name: 'superterran'
             value: 'superterran'        
   ignore:
-    - index.md
+    - .gitignore
+    - Makefile
+    - _prose.yml
+    - package.json
