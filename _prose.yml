@@ -16,6 +16,8 @@ prose:
           options:
           - name: 'post'
             value: 'post'
+          - name: 'project'
+            value: 'project'            
       - name: "current"
         field:
           element: "select"
@@ -114,6 +116,82 @@ prose:
             value: 'page'
           - name: 'post'
             value: 'post'
+
+
+    projects:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"      
+      - name: "layout"
+        field:
+          element: "select"
+          label: "layout"
+          help: "page-level layout"
+          options:
+          - name: 'project'
+            value: 'project'
+          - name: 'post'
+            value: 'post'
+      - name: "current"
+        field:
+          element: "select"
+          label: "current"
+          help: ""
+          options:
+          - name: 'post'
+            value: 'post'
+      - name: "cover"
+        field:
+          element: "text"
+          label: "cover image relative image path, e.g. assets/images/bus.jpg"
+      - name: "navigation"
+        field:
+          element: "checkbox"
+          label: "Show in Navigation"
+      - name: "date"
+        field:
+          label: "Date"
+          element: "text"
+          value: CURRENT_DATETIME
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "tags"
+          alterable: true
+      - name: "class"
+        field:
+          element: "select"
+          label: "post class"
+          help: "classification of post"
+          options:
+          - name: 'post-template'
+            value: 'post-template'
+      - name: "sub-class"
+        field:
+          element: "select"
+          label: "post sub-class"
+          help: "sub-classification of post"
+          options:
+          - name: 'post'
+            value: 'post'
+      - name: "author"
+        field:
+          element: "select"
+          label: "author"
+          help: "who's the lucky author?"
+          options:
+          - name: 'superterran'
+            value: 'superterran' 
+      - name: "tags"
+        field:
+          element: "select"
+          label: "tags"
+          help: "tags (must be demo for projects)"
+          options:
+          - name: 'demo'
+            value: 'demo'
+
 
 
   ignore:
