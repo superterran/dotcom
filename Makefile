@@ -8,9 +8,9 @@ compile: #run the compilation steps only
 	npm install
 	mkdir -p _build
 	cp -rf node_modules/casper/* _build/
-	cp _config.yml _build/
-	rm _build/_posts/*
-	cp _posts/* _build/_posts/
+
+	make overlay
+
 	cd _build/ && npm install
 	cd _build/ && bundle install
 build: compile ## one complete build process
@@ -18,3 +18,12 @@ build: compile ## one complete build process
 
 serve: compile ## serves on the default port, 4000 
 	cd _build/ && bundle exec jekyll serve
+
+overlay: ## cleans out the _build directory and adds our files in
+	cp _config.yml _build/
+
+	rm _build/_posts/*
+	cp _posts/* _build/_posts/
+
+	rm -rf _build/about/
+	cp _content/* _build/
