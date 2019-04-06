@@ -1,0 +1,15 @@
+{
+  "name": "dotcom",
+  "version": "1.0.0",
+  "description": "a jekyll blog for showing off how cool i am",
+  "main": "index.js",
+  "dependencies": {
+    "casper": "^2.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "superterran",
+  "license": "N/A"
+}
