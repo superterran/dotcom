@@ -1,6 +1,16 @@
 ---
 title: Cool Uses for a Raspberry Pi
+published: true
+layout: post
+current: post
+navigation: false
+date: '2017-10-29 14:27 -0400'
+class: post-template
+sub-class: post
+author: superterran
+cover: assets/posts/7fb9c4584e005104ef3e080a03f20b96_preview_featured.jpg
 ---
+
 So this year I bought a 3D printed tiny Super Nintendo Case and put a Raspberry Pi 3 in it. At first, my only concern was to have a [RetroPie setup](https://retropie.org.uk/), because of my childhood love of [legally obtained ROMs](https://www.myabandonware.com/). This part was easy enough and obtainable in one sitting. Putting a RetroPie together is quick and easy, and those guys have really done a great job bridging the gap between a terminal driven configuration and controller-only input. 
 
 To my delight, the Nintendo Switch Pro Controller supports Bluetooth and pairs right up to the Pi. The controller has a USB-C port for charging and is the best controller I own. I kicked my Xbox One out of the living room, so I almost live in a one controller world out there and it's nice. Hopefully the new [8BITDO with USB-C](https://www.amazon.com/8Bitdo-SN30-Controller-Windows-macOS-Android/dp/B0748S1VDC/ref=sr_1_fkmr0_3?ie=UTF8&qid=1509295222&sr=8-3-fkmr0&keywords=8bitdo%2B60&th=1) will close that gap.
@@ -15,5 +25,4 @@ This year I spent a ton of time traveling and in hotels, and one thing that both
 
 My favorite thing the Pi does at the moment is [Moonlight](http://moonlight-stream.com/), the software that approximates Steam Link using the nVIDIA Experience setup. Other than kinks in the software where you'll close a game and the Steam interface won't restore and the like, this works really well. In the living room, I can go through the RetroPie, select 'Steam' basically, it will load Big Picture on my PC in the other room and stream it to my living room. Pick any game I want and it kicks off and works. The devil here is in the controller mappings. I can't et my Switch Pro controller's analogs to work correctly, it's not sensitive enough but Super Meat Boy works fine as it's d-pad. The Steam Controller doesn't work at all, but you can configure it through xboxdrv if you hate your life. I settled on using VirtualHere, which lets you virtually connect USB devices to other computers using the network. Works really well. The Xbox 360 controllers work well too, was showing off DOOM and Friday the 13th (for Windows) in the living room through Moonlight yesterday and it worked really well. 
 
-It's crazy what you can do with these things, the only real limitation I've run into so far is that it doesn't have a SATA bus so you can't use it as a NAS. It seems like a natural use case. I haven't tried any electronics projects with these things, but I may in the future try my hand at making some digital signage, something along the lines of light boards like you'd see at a football game or bingo hall. 
-
+It's crazy what you can do with these things, the only real limitation I've run into so far is that it doesn't have a SATA bus so you can't use it as a NAS. It seems like a natural use case. I haven't tried any electronics projects with these things, but I may in the future try my hand at making some digital signage, something along the lines of light boards like you'd see at a football game or bingo hall.
