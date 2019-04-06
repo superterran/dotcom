@@ -18,7 +18,7 @@ I'm cheap though, and the only equipment I was willing to invest in is a couple 
 
 To get this working, select 'Listen to this Device' in the Line Out properties:
 
-![Thing to click in Windows 10 to enable Line Out passthrough](/assets/2016/2016-01-10.png)
+![Thing to click in Windows 10 to enable Line Out passthrough](/assets/posts/2016-01-10.png)
 
 Getting this to work in Linux (Fedora 23 w/ Gnome 3.18) was a little tricker, but not by much. In my config, there's not a menu option like 'Listen to this Device', but running the following in the terminal enables a 'loopback' device that will play the line-out through your default speaker:
 
