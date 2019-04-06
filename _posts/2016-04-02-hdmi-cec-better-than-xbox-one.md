@@ -1,5 +1,14 @@
 ---
 title: HDMI CEC > Xbox One
+published: true
+layout: post
+current: post
+navigation: false
+date: '2016-04-02 13:58 -0400'
+class: post-template
+sub-class: post
+author: superterran
+cover: assets/posts/Xbox_One_X_Screenshot_05.0.jpg
 ---
 I recently bought a TV with HDMI-CEC support, which could be one of the coolest features introduced to displays in a long long time. It's kinda like IR over HDMI. It allows the TV to auto-switch sources, turn on and off, all depending on what you're doing with the devices connected to it. The Chromecast turns on the display and switches input when you try and stream to it. My Steam Link will switch TV inputs and take control when I press the Steam button on the controller. This will replace the TV remote control by factoring it out entirely. 
 
