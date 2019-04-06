@@ -27,6 +27,9 @@ overlay: ## cleans out the _build directory and adds our files in
 	rm _build/_posts/*
 	cp _posts/* _build/_posts/
 
+	mkdir -p _build/projects/
+	cp -rf projects/* _build/projects/
+
 	cp -rf assets/* _build/assets/
 
 	rm -rf _build/about/
