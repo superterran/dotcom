@@ -6,15 +6,15 @@ class: post-template
 sub-class: post
 author: superterran
 published: true
-
 title: Dozer
-link: https://gist.github.com/superterran/b3ce7afe74fa6ba8ce41d7f5007ccb13
+link: 'https://gist.github.com/superterran/b3ce7afe74fa6ba8ce41d7f5007ccb13'
 thumb: dozer.png
 frontpage: false
-tags: demo
-
-
-
+tags:
+  - ''
+  - demo
+date: '2019-04-06 17:07 -0400'
+cover: assets/posts/bulldozer.jpg
 ---
 
 <iframe src="https://rawgit.com/superterran/b3ce7afe74fa6ba8ce41d7f5007ccb13/raw/8d8f377d68a529ba49343b9cc2088e7e152300d5/dozer.html" class="showcase" style="height: 600px; width: 550px;"></iframe>
