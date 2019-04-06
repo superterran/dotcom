@@ -1,7 +1,16 @@
 ---
-title: Linux on Dell XPS 15 
+title: Linux on Dell XPS 15
+published: true
+layout: post
+current: post
+navigation: false
+date: '2016-04-13 14:07 -0400'
+class: post-template
+sub-class: post
+author: superterran
+cover: assets/posts/xps-15-9570-ports-01.webp
 ---
-I'm blassed with a job that's actively looking to step up their hardware game. So after a few nights of googling, I went to our IT guy and I was able to pursuade him to order the new [Dell XPS 15 Non-touch 9550 P56F](http://www.dell.com/us/business/p/xps-15-9550-laptop/pd?oc=cax15w10s1630&model_id=xps-15-9550-laptop). My model has a Intel Core i7-6700HQ with 16GB of DDR4 RAM and a 512gb SSD on a PCI-e bus. Sickeningly awesome system. It hangs with my MBP but I still miss the trackpad. The MBP feels better and is less plastically, but the internals are better on the Dell side, and while it's a little thicker than the MBP, it's hardly noticable and Dell hides it pretty well. 
+I'm blessed with a job that's actively looking to step up their hardware game. So after a few nights of googling, I went to our IT guy and I was able to pursuade him to order the new [Dell XPS 15 Non-touch 9550 P56F](http://www.dell.com/us/business/p/xps-15-9550-laptop/pd?oc=cax15w10s1630&model_id=xps-15-9550-laptop). My model has a Intel Core i7-6700HQ with 16GB of DDR4 RAM and a 512gb SSD on a PCI-e bus. Sickeningly awesome system. It hangs with my MBP but I still miss the trackpad. The MBP feels better and is less plastically, but the internals are better on the Dell side, and while it's a little thicker than the MBP, it's hardly noticable and Dell hides it pretty well. 
 
 It's a good Linux laptop. Running Fedora 23 (I'll cover Ubuntu in a new post when work forces my hand to install it), it pretty much works entirely out of the box. Battery life *seems* roughly comparable to my MBP, but we'll see how that pans out as I use it. 
 
