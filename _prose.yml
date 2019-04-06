@@ -104,7 +104,7 @@ prose:
         field:
           element: "checkbox"
           label: "Show in Navigation"
-        - name: "layout"
+      - name: "layout"
         field:
           element: "select"
           label: "layout"
