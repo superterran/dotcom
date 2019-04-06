@@ -14,4 +14,6 @@ tags: demo
 frontpage: false
 ---
 
-<iframe src="https://rawgit.com/superterran/d85f346188741da23832f05cd79dfe20/raw/06dbb2b5f252146800181e9751790098ddec27dc/nibbles.html" class="showcase"></iframe>
+<iframe src="https://rawgit.com/superterran/d85f346188741da23832f05cd79dfe20/raw/06dbb2b5f252146800181e9751790098ddec27dc/nibbles.html" class="showcase"  width="100%" height="100%" style="min-height: 600px"></iframe>
+
+<center>Use <b>W</b>, <b>A</b>, <b>S</b>, <b>D</b> to move the snake and eat the apples</center>
