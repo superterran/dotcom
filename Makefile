@@ -22,6 +22,8 @@ serve: compile ## serves on the default port, 4000
 overlay: ## cleans out the _build directory and adds our files in
 	cp _config.yml _build/
 
+	cp -rf theme/* _build/
+
 	rm _build/_posts/*
 	cp _posts/* _build/_posts/
 
