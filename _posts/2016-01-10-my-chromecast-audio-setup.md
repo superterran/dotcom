@@ -1,5 +1,14 @@
 ---
 title: Chromcast Audio to PC Line-in as Multi-room Solution
+published: true
+layout: post
+current: post
+navigation: false
+date: '2019-04-06 13:45 -0400'
+class: post-template
+sub-class: post
+author: superterran
+cover: assets/posts/chromecast-multi.jpg
 ---
 
 
