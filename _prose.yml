@@ -121,4 +121,4 @@ prose:
     - Makefile
     - _prose.yml
     - package.json
-    - theme/
+    - theme
