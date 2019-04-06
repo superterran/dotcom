@@ -14,4 +14,4 @@ frontpage: false
 tags: demo
 ---
 
-<iframe src="https://rawgit.com/superterran/legend-of-canvas/master/index.html" class="showcase"></iframe>
+<iframe src="https://rawgit.com/superterran/legend-of-canvas/master/index.html" class="showcase" width="100%" height="100%" style="min-height: 600px"></iframe>

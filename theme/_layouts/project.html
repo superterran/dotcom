@@ -25,19 +25,7 @@ into the {body} of the default.hbs template -->
         <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
 
             <header class="post-full-header">
-                <section class="post-full-meta">
-                    <time class="post-full-meta-date" datetime="{{ page.date | date:'%e %B %Y' }}">{{ page.date | date:'%e %B %Y' }}</time>
-                    {% if page.tags.size > 0 %}
-                        <span class="date-divider">/</span>
-                        {% for tag in page.tags %}
-                            {% if forloop.index == page.tags.size %}
-                               <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>
-                            {% else %}
-                               <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>,
-                            {% endif %}
-                        {% endfor %}
-                    {% endif %}
-                </section>
+  
                 <h1 class="post-full-title">{{ page.title }}</h1>
             </header>
 
@@ -47,7 +35,7 @@ into the {body} of the default.hbs template -->
             {% endif %}
 
             <section class="post-full-content">
-                <div class="kg-card-markdown">
+                <div class="kg-card-markdown" style="min-height: 600px">
                     {{ content }}
                 </div>
             </section>
@@ -193,3 +181,29 @@ into the {body} of the default.hbs template -->
 <!-- /post -->
 
 <!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
+
+
+<style type="text/css">
+.post-full-content {
+    margin-top: -700px;
+    background: rgba(255,255,255,.9);
+}
+
+@media (max-width: 1170px) {
+    .post-full-content {
+        margin-top: -600px;
+    }
+}
+
+@media (max-width: 800px) {
+    .post-full-content {
+        margin-top: -400px;
+    }
+}
+
+@media (max-width: 500px) {
+    .post-full-content {
+        margin-top: -300px;
+    }
+}
+</style>
