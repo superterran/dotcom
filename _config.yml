@@ -26,6 +26,9 @@ subscribers: True # you need to connect an external service for this to work,
 # by editing `_includes/subscribe-form.html`
 twitter: superterran # replace by your username
 facebook: doug.hatcher # replace by your username
+github:  superterran
+linkedin: doughatcher
+codepen: superterran
 
 # Disqus
 disqus: True
