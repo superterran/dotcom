@@ -1,7 +1,7 @@
 prose:
   rooturl: ''
   siteurl: 'https://superterran.com/'
-  media: 'media'
+  media: 'assets/posts/'
   metadata:
     _posts:
       - name: "title"
