@@ -1,5 +1,7 @@
 # superterran dot com
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/078784e7-77c0-4a45-bdc8-73223f6de9c1/deploy-status)](https://app.netlify.com/sites/superterrandotcom/deploys)
+
 * https://app.netlify.com/sites/superterrandotcom/settings/general
 * http://prose.io/#superterran/dotcom/tree/master
 
