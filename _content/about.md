@@ -1,11 +1,14 @@
 ---
-navigation: false
+navigation:
+  - true
+  - false
 class: post-template
 sub-class: post
-published: false
+published: true
 title: About
 logo: assets/images/ghost.png
 current: about
+layout: page
 ---
 
 Maybe I don't even know who I am
