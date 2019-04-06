@@ -6,7 +6,7 @@ date: '2019-04-06 01:30 -0400'
 class: post-template
 sub-class: post
 author: superterran
-published: false
+published: true
 title: First Post
 cover: assets/images/bus.jpg
 ---
