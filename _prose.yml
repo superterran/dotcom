@@ -100,6 +100,22 @@ prose:
           options:
           - name: 'post'
             value: 'post'
+      - name: "navigation"
+        field:
+          element: "checkbox"
+          label: "Show in Navigation"
+        - name: "layout"
+        field:
+          element: "select"
+          label: "layout"
+          help: "page-level layout"
+          options:
+          - name: 'page'
+            value: 'page'
+          - name: 'post'
+            value: 'post'
+
+
   ignore:
     - .gitignore
     - Makefile
