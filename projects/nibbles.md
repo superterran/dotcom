@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 current: post
 navigation: false
 class: post-template
