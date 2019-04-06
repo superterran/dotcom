@@ -1,4 +1,7 @@
-# superterran dotcom
+# superterran dot com
+
+* https://app.netlify.com/sites/superterrandotcom/settings/general
+* http://prose.io/#superterran/dotcom/tree/master
 
 A somewhat sane way to package a jekyll site
 
@@ -12,6 +15,7 @@ A jekyll site for yours truly, will live at superterran.com
 
 ```
 $ make build
+$ make serve
 ```
 
 # License
