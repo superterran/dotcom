@@ -1,7 +1,15 @@
 ---
 title: Meld on OS X
+published: true
+layout: post
+current: post
+navigation: false
+date: '2016-01-12 13:50 -0400'
+class: post-template
+sub-class: post
+author: superterran
+cover: assets/posts/mled.jpg
 ---
-
 
 Finding a good (free) diff tool is hard for OS X. Here, we'll setup Meld (a popular diff tool on linux) to run with OS X and git. 
 
