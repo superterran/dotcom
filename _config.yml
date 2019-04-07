@@ -11,7 +11,8 @@ baseurl: /
 # Website info
 title: superterran
 description:  "I think we agree, the past is over. –George W. Bush"
-cover: assets/images/blog-cover.jpg
+
+cover: assets/posts/space-genetics-is-essential-making-life-in-space-work.jpeg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
