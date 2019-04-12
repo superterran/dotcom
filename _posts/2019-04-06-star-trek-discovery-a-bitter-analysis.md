@@ -7,7 +7,7 @@ class: post-template
 sub-class: post
 author: superterran
 published: true
-title: 'Star Trek Discovery, a bitter analysis'
+title: 'Star Trek Discovery, A Bitter Analysis'
 cover: assets/posts/Star-Trek-Discovery-Brother.jpg
 ---
 
@@ -23,11 +23,11 @@ Star Trek IV, the Whale one, is probably my favorite overall. It's also the wors
 
 And lest we forget, the all important warp crystals, which they had to figure out how to recharge. Luckilly, in the 20th century, we used shit nuclear reactors for everything and somehow waving a dilithium crystal in front of them charges them right up. Who knew? Last time, on Discovery, Pike obtained a Time Crystal from a Klingon Monastary. I, of course, held my tounge. But the toxic fanboys were livid! I was among them. Time Crystals are a lazy cop-out, especially for a univerve where Time Travel was totally possible. Just watched them do it in IV, in a piece of shit Klingon vessel. 
 
-![Techobabble...]({{site.baseurl}}assets/posts/Di3nsTm.jpg)![Di3nsTm.jpg]({{site.baseurl}}/assets/posts/Di3nsTm.jpg)
+![Techobabble...]({{site.baseurl}}assets/posts/Di3nsTm.jpg)
 
 
 Time Crystals. The DS9 tie-ins to Bajoran Orbs is obvious. There was a line, something like 'what you see is for you and you alone' that was the writer boldy stating that I should just accept this as happening. But I can't. Yes, yes, warp crystals are fine. For you see, they have written books of techno-babble to explain how they take matter and anit-matter, shunt it through some crystal, creating a warp field that compresses space-time in front of ship and expanding it behind, sweet tehnobabble. When the HMS Bounty (Kirk's Klingon ship in IV) shot off in to Time Warp, they just needed some math, a gravity well, and a high warp factor. No need for time crystals. Let's not forget about Assignment: Earth.
 
 When DS9 introduced the Bajoran Orbs, they weren't just trodding on mystsicism. Sisko didn't see the Orb of Time as something that defied all logic and being. He recognized that The Worm Hole Aliens exist outside of our timeframe, they see past and future all at once. The Orb was a conduit to that perspective. The religous aspect was always deconstructed, a tricorder was always introduced, and an attempt was made to reconsile it to the universe the writers constructed, one fixed in science. 
 
-The best part of Discovery is there's subtle little clues that they are listening. It's likely that the writers are all Star Trek gurus and know the material far better than I ever will. The show is still ongoing, the hope that they cleverly tie up some loose ends, nod that they have to fit into canon and can't simply re-write it keep me going. Time Crystals and a Klingon Monstary protecting them might just be the dumbest idea I've seen thus far, but if Babylon 5 has taught us anything it's that a good timeloop can fill a lot of gaps. Hell, it could even explain why Section 31 is so invasive. And with a technological stepping back as we deal with aftermath of Control, we could even explain why the Enterprise looks primitive comparatively. 
+The best part of Discovery is there's subtle little clues that they are listening. It's likely that the writers are all Star Trek gurus and know the material far better than I ever will. The show is still ongoing, the hope that they cleverly tie up some loose ends, nod that they have to fit into canon and can't simply re-write it keep me going. Time Crystals and a Klingon Monstary protecting them might just be the dumbest idea I've seen thus far, but if Babylon 5 has taught us anything it's that a good timeloop can fill a lot of gaps. Hell, it could even explain why Section 31 is so invasive. And with a technological stepping back as we deal with aftermath of Control, we could even explain why the Enterprise looks primitive comparatively.
