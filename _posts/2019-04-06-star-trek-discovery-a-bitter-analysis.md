@@ -13,7 +13,7 @@ cover: assets/posts/Star-Trek-Discovery-Brother.jpg
 
 One thing I've learned this year is that I'm a toxic Star Trek fan. According to Shit Posters, both the Facebook group and reddit commentor variety, I endlessly critique bothersome details and in doing so miss out on all the wonder and spectacle. Perhaps my adulation of TNG era Trek, knowing all the tapes and my reverence to all mighty Canon has posioned me? Am I incapable of enjoying new Trek?
 
-The last week, the lady and I have been watching the Star Trek movie collection. Star Trek II is glorious, the scenes with Ricardo_Montalbán, his revenge orgasims are the stuff of legend. 
+The last week, the lady and I have been watching the Star Trek movie collection. Star Trek II is glorious, the scenes with Ricardo Montalbán, his revenge orgasims are the stuff of legend. 
 
 ![Kahn cums as he fires on Kirk]({{site.baseurl}}assets/posts/wykyhC4eC7.png)
 
@@ -34,4 +34,4 @@ When DS9 introduced the Bajoran Orbs, they weren't just trodding on mystsicism. 
 
 The best part of Discovery is there's subtle little clues that they are listening. It's likely that the writers are all Star Trek gurus and know the material far better than I ever will. The show is still ongoing, the hope that they cleverly tie up some loose ends, nod that they have to fit into canon and can't simply re-write it keep me going. Time Crystals and a Klingon Monstary protecting them might just be the dumbest idea I've seen thus far, but if Babylon 5 has taught us anything it's that a good timeloop can fill a lot of gaps. Hell, it could even explain why Section 31 is so invasive. And with a technological stepping back as we deal with aftermath of Control, we could even explain why the Enterprise looks primitive comparatively.
 
-So in all, still pretty toxic. But I acknowlege the possibility that the show could bend towards the kind of Trek I'm looking for. Someone said that I want Disco to be a dog, but it's a cat, and  I need to accept it as a cat. I don't know if I agree. Discovery might not need my fandom, but if it wants it, it'll have to earn it like all the rest of the franchise did. I don't know if it wants to the show I want it to be, but there's still time if it does. I keep reminding myself TNG wasn't even watchable until Season 3. Anything could happen. 
+So in all, still pretty toxic. But I acknowlege the possibility that the show could bend towards the kind of Trek I'm looking for. Someone said that I want Disco to be a dog, but it's a cat, and  I need to accept it as a cat. I don't know if I agree. Discovery might not need my fandom, but if it wants it, it'll have to earn it like all the rest of the franchise did. I don't know if it wants to the show I want it to be, but there's still time if it does. I keep reminding myself TNG wasn't even watchable until Season 3. Anything could happen.
