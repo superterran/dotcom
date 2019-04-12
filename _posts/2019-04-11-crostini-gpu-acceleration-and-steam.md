@@ -6,7 +6,7 @@ date: '2019-04-11 23:17 -0400'
 class: post-template
 sub-class: post
 author: superterran
-published: false
+published: true
 title: 'Crostini, GPU Acceleration and Steam'
 cover: assets/posts/chrome-generic-hero.png
 ---
