@@ -6,21 +6,25 @@ date: '2019-04-06 18:35 -0400'
 class: post-template
 sub-class: post
 author: superterran
-published: false
+published: true
 title: 'Star Trek Discovery, a bitter analysis'
+cover: assets/posts/Star-Trek-Discovery-Brother.jpg
 ---
 
 One thing I've learned this year is that I'm a toxic Star Trek fan. According to Shit Posters, both the Facebook group and reddit commentor variety, I endlessly critique bothersome details and in doing so miss out on all the wonder and spectacle. Perhaps my adulation of TNG era Trek, knowing all the tapes and my reverence to all mighty Canon has posioned me? Am I incapable of enjoying new Trek?
 
 The last week, the lady and I have been watching the Star Trek movie collection. Star Trek II is glorious, the scenes with Ricardo_Montalbán, his revenge orgasims are the stuff of legend. 
 
-![Kahn cums as he fires on Kirk]({{site.baseurl}}/assets/posts/wykyhC4eC7.png)
+![Kahn cums as he fires on Kirk]({{site.baseurl}}assets/posts/wykyhC4eC7.png)
 
 But how did I feel about Into Darkness? Predictably, I hated the casting of Kahn. Some british white guy? What were they thinking?! Looks nothing like the man, much less act like him. I recall predicting before the movie that Kahn was going to be part of Section 31 somehow. Gladly I was right, a dirty admiral with a secret agenda. Fast forward a few years, Section 31 is mainstream. The discovery has a Section 31 officer, is being chased around by Section 31 ships, hell the whole Federation is taking orders from a Section 31 AI. All this from an organization so obscure they didn't even give themselves a name. Maybe I'm sensitive to this point, I did afterall watch DS9 like six times.
 
 Star Trek IV, the Whale one, is probably my favorite overall. It's also the worst offender, in terms of groan moments. There's a scene where someone just walks into a Cloaked landing strut. Listen, it's not like when you cloak a Klingon vessel the ship just turns invisible, there's a light-bending field around it, it's cirlcular, you see it on monitors. If there was a cloaked ship just on earth, sitting in a grassy park somewhere, it's not going to stand out as distorted. At least that's what the rest of Trek canon says, except for in this movie where it's fun to watch someone bump into it, or to watch Sulu lower plexi-glass into thin air. My favorite scene is 
 
 And lest we forget, the all important warp crystals, which they had to figure out how to recharge. Luckilly, in the 20th century, we used shit nuclear reactors for everything and somehow waving a dilithium crystal in front of them charges them right up. Who knew? Last time, on Discovery, Pike obtained a Time Crystal from a Klingon Monastary. I, of course, held my tounge. But the toxic fanboys were livid! I was among them. Time Crystals are a lazy cop-out, especially for a univerve where Time Travel was totally possible. Just watched them do it in IV, in a piece of shit Klingon vessel. 
+
+![Techobabble...]({{site.baseurl}}assets/posts/Di3nsTm.jpg)![Di3nsTm.jpg]({{site.baseurl}}/assets/posts/Di3nsTm.jpg)
+
 
 Time Crystals. The DS9 tie-ins to Bajoran Orbs is obvious. There was a line, something like 'what you see is for you and you alone' that was the writer boldy stating that I should just accept this as happening. But I can't. Yes, yes, warp crystals are fine. For you see, they have written books of techno-babble to explain how they take matter and anit-matter, shunt it through some crystal, creating a warp field that compresses space-time in front of ship and expanding it behind, sweet tehnobabble. When the HMS Bounty (Kirk's Klingon ship in IV) shot off in to Time Warp, they just needed some math, a gravity well, and a high warp factor. No need for time crystals. Let's not forget about Assignment: Earth.
 
