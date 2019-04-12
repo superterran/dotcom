@@ -7,7 +7,7 @@ class: post-template
 sub-class: post
 author: superterran
 published: true
-title: 'Star Trek Discovery, A Bitter Analysis'
+title: 'Star Trek: Discovery, A Bitter Analysis'
 cover: assets/posts/Star-Trek-Discovery-Brother.jpg
 ---
 
