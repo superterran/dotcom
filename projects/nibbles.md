@@ -5,7 +5,7 @@ navigation: false
 class: post-template
 sub-class: post
 author: superterran
-published: true
+published: false
 title: Nibbles
 description: A homage to my very favorite q-basic game. Swipe or use WASD to play
 link: 'https://gist.github.com/superterran/d85f346188741da23832f05cd79dfe20'
