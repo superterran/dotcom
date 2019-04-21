@@ -5,7 +5,7 @@ navigation: false
 class: post-template
 sub-class: post
 author: superterran
-published: true
+published: false
 title: Dozer
 link: 'https://gist.github.com/superterran/b3ce7afe74fa6ba8ce41d7f5007ccb13'
 thumb: dozer.png
