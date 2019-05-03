@@ -6,7 +6,7 @@ date: '2019-05-02 21:55 -0400'
 class: post-template
 sub-class: post
 author: superterran
-published: false
+published: true
 title: In Defense of GNOME 3.32
 cover: assets/posts/gnome332-816x345.jpg
 ---
@@ -30,4 +30,3 @@ It's since devolved into a something, I can hardly explain what at this point. 3
 Notifications spoke to a real problem, messages and notifications should be a first-class citizen, and application agnostic. This is the GNOME way, take the problems of yesteryear - namely that notifications in Empathy and programs like Xchat and Pidgin were a mess, and implement a DE-level solution as eloquently as possible. You still see this thinking everywhere with GNOME> Just open GNOME Boxes and compare it to Virtualbox. Look at how minimal the Files app is. With chat they fell short, but I'm sure they'll try again.
 
 I have used GNOME for a long time, the lesson I learned when I decided to stop evaluating desktops was that desktop environments were generally short-sighted and will put a ton of effort in what amounts to dumb frivolous features and visual crap. When the parent DE shifts, it all gets thrown away, or worse, locked in place never to get upstream updates again. GNOME is a project that wants to shed old ideas, most desktop environments wants to collect them and package them as a greatest hits collection. That might appeal to some, but I prefer a desktop that's thinking these things through.
-
