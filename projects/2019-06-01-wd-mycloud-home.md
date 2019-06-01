@@ -20,6 +20,8 @@ So far this hasn't been the worst device. It's oftentimes provides snappy file t
 
 # Managing the Device
 
+So far, I have used adb to shell in to poke around with bash. Once rooted, you can install [busybox](https://busybox.net/) and use that to install `entware` which can be used to run any number of things. 
+
 ## Enabling Root
 
 This requires physical access to the drive, so you'll probably be voiding your warrentey as you tear this thing apart. It's a nesting dool mess of plastic, so good luck not scratching the case.
@@ -57,6 +59,40 @@ adb shell
 
 ## Install Busybox
 
+The version of busybox bundled in the system doesn't work well, so download this one https://busybox.net/downloads/binaries/1.28.1-defconfig-multiarch/busybox-armv7l to your host system and rename to `busybox`, and we'll use `adb push` to update the MyCloud.
+
+On mycloud:
+
+```sh
+/system/bin/mount -o rw,remount /
+/system/bin/mount -o rw,remount /system
+mkdir /opt
+mkdir /data/entware.arm
+mount -o bind /data/entware.arm /opt
+```
+
+On the host system, run the following to push the busybox fil: 
+```
+adb push /path/to/downloads/busybox /system/bin
+```
+
+On mycloud:
+
+```sh
+/system/bin/busybox --install /system/bin
+/system/bin/mount -o ro,remount /system
+/system/bin/mount -o ro,remount /
+```
+
 ## Setup Samba
+
+To make this thing useful for linux systems, add the following to the bundled samba configuration located at `/data/wd/samba/etc/samba/smb.conf`:
+
+```
+[Storage]                                                                       
+path = /data/data/com.plexapp.mediaserver.smb/auth0|5ceb23ba2271ff0f67034534                                        
+writable = yes                                                                 
+guest ok = yes 
+```
 
 ## Setup Transmission
