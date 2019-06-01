@@ -9,7 +9,7 @@ tags:
 class: post-template
 sub-class: post
 author: superterran
-published: false
+published: true
 title: WD MyCloud Home
 cover: assets/posts/My_Cloud_Home_Lifestyle_1.0.jpg
 ---
@@ -17,5 +17,3 @@ cover: assets/posts/My_Cloud_Home_Lifestyle_1.0.jpg
 [Jaja's Guide](https://community.wd.com/t/install-entware-on-wd-my-cloud-home-ssh-access-nfs-server-opkg-install-packages/228591/18)
 
 ![My_Cloud_Home_Lifestyle_1.0.jpg]({{site.baseurl}}/assets/posts/My_Cloud_Home_Lifestyle_1.0.jpg)
-
-
