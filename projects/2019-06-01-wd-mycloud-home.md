@@ -185,6 +185,15 @@ esac
 Then call with a cron! Need to come up with a better way to run these things!
 
 
+Seems like Transmission doesn't have the space to work in it's default directory, let's put it in a more roomy spot...
+
+```sh
+/system/bin/transmission.sh stop
+mv /opt/etc/transmission /data/wd/diskVolume0/
+ln -s /data/wd/diskVolume0/transmission /opt/etc/transmission
+/system/bin/transmission.sh start
+```
+
 ## References
 
 * [Juju's Guide](https://community.wd.com/t/install-entware-on-wd-my-cloud-home-ssh-access-nfs-server-opkg-install-packages/228591/18)
