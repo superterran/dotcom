@@ -13,8 +13,6 @@ published: true
 title: WD MyCloud Home
 cover: assets/posts/My_Cloud_Home_Lifestyle_1.0.jpg
 ---
-[Jaja's Guide](https://community.wd.com/t/install-entware-on-wd-my-cloud-home-ssh-access-nfs-server-opkg-install-packages/228591/18)
-
 So far this hasn't been the worst device. It's oftentimes provides snappy file transfers (but not always), has plex built in (which I haven't really used so far), and has some cool cloud integrations. The downside is it's utter lack for Linux support. Luckilly, under the hood this thing is running Android and we can pretty easily root it and add a few things.
 
 
@@ -185,3 +183,8 @@ esac
 ```
 
 Then call with a cron! Need to come up with a better way to run these things!
+
+
+## References
+
+* [Juju's Guide](https://community.wd.com/t/install-entware-on-wd-my-cloud-home-ssh-access-nfs-server-opkg-install-packages/228591/18)
