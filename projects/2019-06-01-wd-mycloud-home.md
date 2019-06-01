@@ -84,6 +84,26 @@ On mycloud:
 /system/bin/mount -o ro,remount /
 ```
 
+## Modify Crontab
+
+Put volume in RW mode:
+
+`/system/bin/mount -o rw,remount /`
+
+
+Then edit crontab...
+
+`vi /system/etc/cron/root`
+
+```
+*/3 * * * * /system/bin/transmission.sh start
+```
+Put volume back in RO mode:
+
+`/system/bin/mount -o ro,remount /`
+
+
+
 ## Setup Samba
 
 To make this thing useful for linux systems, add the following to the bundled samba configuration located at `/data/wd/samba/etc/samba/smb.conf`:
@@ -96,3 +116,72 @@ guest ok = yes
 ```
 
 ## Setup Transmission
+
+Install the package...
+
+```sh
+/opt/bin/opkg install transmission-daemon-web
+```
+
+
+Create this file in `/system/bin/transmission.sh`
+
+```
+#!/system/bin/sh
+
+PIDFILE="/opt/var/run/transmission.pid"
+
+transmission_status ()
+{
+        [ -f $PIDFILE ] && [ -d /proc/`cat $PIDFILE` ]
+}
+
+
+start()
+{
+	/opt/bin/transmission-daemon --pid-file=$PIDFILE
+        sleep 2
+}
+
+stop()
+{
+        kill `cat $PIDFILE`
+}
+case "$1" in
+        start)
+                if transmission_status
+                then
+                        echo transmission already running
+                else
+                        start
+                fi
+                ;;
+        stop)
+                if transmission_status
+                then
+                        stop
+                else
+                        echo transmission is not running
+                fi
+                ;;
+        status)
+                if transmission_status
+                then
+                        echo transmission already running
+                else
+                        echo transmission is not running
+                fi
+                ;;
+
+        restart)
+                stop
+                sleep 3
+                start
+                ;;
+        *)
+                echo "Usage: $0 {start|stop|restart|status}"
+                ;;
+esac
+```
+
+Then call with a cron! Need to come up with a better way to run these things!
