@@ -231,7 +231,7 @@ Then edit crontab to automate it...
 `vi /system/etc/cron/root`
 
 ```
-0 0 * * 0 /data/data/com.plexapp.mediaserver.smb/auth0\|5ceb23ba2271ff0f67034534 remote:superterran-mycloud
+0 0 * * 0 rclone --config /data/wd/diskVolume0/rclone/rclone.config sync /data/data/com.plexapp.mediaserver.smb/auth0\|5ceb23ba2271ff0f67034534 remote:superterran-mycloud
 ```
 
 
