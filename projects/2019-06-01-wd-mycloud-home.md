@@ -226,7 +226,14 @@ rclone --config /data/wd/diskVolume0/rclone/rclone.config
 rclone --config /data/wd/diskVolume0/rclone/rclone.config sync /data/data/com.plexapp.mediaserver.smb/auth0\|5ceb23ba2271ff0f67034534 remote:superterran-mycloud
 ```
 
-Make a little cron out of this to our favorite cloud
+Then edit crontab to automate it...
+
+`vi /system/etc/cron/root`
+
+```
+0 0 * * 0 /data/data/com.plexapp.mediaserver.smb/auth0\|5ceb23ba2271ff0f67034534 remote:superterran-mycloud
+```
+
 
 ## References
 
