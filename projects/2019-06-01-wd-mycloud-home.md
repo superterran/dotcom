@@ -194,6 +194,12 @@ ln -s /data/wd/diskVolume0/transmission /opt/etc/transmission
 /system/bin/transmission.sh start
 ```
 
+## RClone
+
+```sh
+rclone --config /data/wd/diskVolume0/rclone/rclone.config
+```
+
 ## References
 
 * [Juju's Guide](https://community.wd.com/t/install-entware-on-wd-my-cloud-home-ssh-access-nfs-server-opkg-install-packages/228591/18)
