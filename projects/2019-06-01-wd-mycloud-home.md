@@ -196,9 +196,31 @@ ln -s /data/wd/diskVolume0/transmission /opt/etc/transmission
 
 ## RClone
 
+Very annoyingly, most of the drive's volumes don't have enough space to really install anything. I had to get a bit creative to install rclone.
+
 ```sh
-rclone --config /data/wd/diskVolume0/rclone/rclone.config
+ cd /data/wd/diskVolume0/
+ mkdir rclone
+ cd rclone
+ curl https://downloads.rclone.org/v1.47.0/rclone-v1.47.0-linux-arm.zip > rclone.zip
+ unzip rclone.zip
+ /system/bin/mount -o rw,remount /
+ /system/bin/mount -o rw,remount /system
+ ln -s /data/wd/diskVolume0/rclone/rclone-v1.47.0-linux-arm/rclone /system/bin/rclone
+ /system/bin/mount -o ro,remount /system
+ /system/bin/mount -o ro,remount /
 ```
+
+Once you install it, you can configure it with the following...
+
+
+```sh
+rclone --config /data/wd/diskVolume0/rclone/rclone.config lsd remote:
+rclone --config /data/wd/diskVolume0/rclone/rclone.config 
+rclone --config /data/wd/diskVolume0/rclone/rclone.config sync /data/data/com.plexapp.mediaserver.smb/auth0\|5ceb23ba2271ff0f67034534 remote:superterran-mycloud
+```
+
+Make a little cron out of this to our favorite cloud
 
 ## References
 
