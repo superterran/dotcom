@@ -213,6 +213,12 @@ Very annoyingly, most of the drive's volumes don't have enough space to really i
 
 Once you install it, you can configure it with the following...
 
+```sh
+rclone config
+```
+
+On my system this won't save a file, so take the outputted contents of the config file, and paste it into `/data/wd/diskVolume0/rclone/rclone.config`
+
 
 ```sh
 rclone --config /data/wd/diskVolume0/rclone/rclone.config lsd remote:
