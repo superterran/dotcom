@@ -217,7 +217,7 @@ Once you install it, you can configure it with the following...
 rclone config
 ```
 
-On my system this won't save a file, so take the outputted contents of the config file, and paste it into `/data/wd/diskVolume0/rclone/rclone.config`
+On my system this won't save a file because everything is out of space, so take the outputted contents of the config file, and paste it into `/data/wd/diskVolume0/rclone/rclone.config`
 
 
 ```sh
