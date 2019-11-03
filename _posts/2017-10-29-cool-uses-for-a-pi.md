@@ -1,10 +1,9 @@
 ---
 title: Cool Uses for a Raspberry Pi
-published: true
+date: 2017-10-29 18:27:00 Z
 layout: post
 current: post
 navigation: false
-date: '2017-10-29 14:27 -0400'
 class: post-template
 sub-class: post
 author: superterran

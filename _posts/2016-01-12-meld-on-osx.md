@@ -1,10 +1,9 @@
 ---
 title: Meld on OS X
-published: true
+date: 2016-01-12 17:50:00 Z
 layout: post
 current: post
 navigation: false
-date: '2016-01-12 13:50 -0400'
 class: post-template
 sub-class: post
 author: superterran

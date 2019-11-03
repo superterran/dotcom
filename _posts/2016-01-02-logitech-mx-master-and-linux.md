@@ -1,13 +1,12 @@
 ---
+title: Logitech MX Master and Linux
+date: 2016-01-02 17:20:00 Z
 layout: post
 current: post
 navigation: false
-date: '2016-01-02 13:20 -0400'
 class: post-template
 sub-class: post
 author: superterran
-published: true
-title: Logitech MX Master and Linux
 cover: assets/posts/logitech-mx-master.jpg
 ---
 

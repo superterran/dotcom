@@ -1,14 +1,13 @@
 ---
+title: Looking for a good Linux Laptop
+date: 2016-04-02 18:06:00 Z
 name: Looking for a good Linux Laptop
-published: true
 layout: post
 current: post
 navigation: false
-date: '2016-04-02 14:06 -0400'
 class: post-template
 sub-class: post
 author: superterran
-title: Looking for a good Linux Laptop
 cover: assets/posts/172947.jpg
 ---
 

@@ -1,7 +1,6 @@
 ---
-date: '2019-04-05 21:59 -0400'
-published: true
 title: Living with A Pixel Slate
+date: 2019-04-06 01:59:00 Z
 layout: post
 current: post
 navigation: false
@@ -10,6 +9,7 @@ sub-class: post
 author: superterran
 cover: assets/posts/google-pixel-slate1.jpg
 ---
+
 I've owned many tablets. My first tablet ran Windows 7 and was absymal. I recall my first Android tablet running Honeycomb, which didn't really spark joy, as they say. The first tablet I ever liked was a Surface Pro 4, but I spilled some water on it and killed it. My last tablet, a Samsung TabPro running Windows 10 was my running favorite; it was the best of the Surface, but with USB-C and a thinner, lighter build. It was great at everything, except Windows kinda sucks at power management still, and Chrome was a slow resource hog. 
 
 Enter Pixel Slate, where Chrome is a first class citizen finally and if I live within it I can generally expect 10-15 hours of battery life. These are estimates I could only dream of on any Windows device, let alone a Surface. It's power management is great, too. On a Surface, if you leave the thing lying around for a week you can expect it to be dead unless you configure it to go into hybernation. Even then, it takes minutes to boot and oftentimes doesn't even work. If you want to try and save the battery if you pick it up and put it down alot, there's really no good configuration. With the Slate, where there is no configuration for this at all, it just naturally acts like it's always on and hasn't been a problem. You can walk away from it for a week, come back and see it's at 70% (which is like 8-9 hours).

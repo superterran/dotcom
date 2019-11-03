@@ -1,15 +1,15 @@
 ---
+title: Crostini, GPU Acceleration and Steam
+date: 2019-04-12 03:17:00 Z
 layout: post
 current: post
 navigation: false
-date: '2019-04-11 23:17 -0400'
 class: post-template
 sub-class: post
 author: superterran
-published: true
-title: 'Crostini, GPU Acceleration and Steam'
 cover: assets/posts/chrome-generic-hero.png
 ---
+
 With ChromeOS 75 hitting the dev channel, we're starting to see budding 3D support on the Pixel Slate. It's still unstable, and not a lot works with it, but it may be worth playing around with if you're interested in gaming on this great little tablet.
 
 A small primer, ChromeOS has it's own developer shell that you can access by typing `Ctrl+Alt+T`. This opens in a new tab.

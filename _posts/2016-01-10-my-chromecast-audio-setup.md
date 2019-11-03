@@ -1,16 +1,14 @@
 ---
 title: Chromcast Audio to PC Line-in as Multi-room Solution
-published: true
+date: 2016-01-10 17:45:00 Z
 layout: post
 current: post
 navigation: false
-date: '2016-01-10 13:45 -0400'
 class: post-template
 sub-class: post
 author: superterran
 cover: assets/posts/chromecast-multi.jpg
 ---
-
 
 Ever since I've moved into a bigger apartment I've lusted over a multi-room speaker setup so we can play audio everywhere in the house. Google's new Chromecast Audio gives me the makings of this, with the recent update it lets you place Chromecasts in a 'group' where they all play simutaniously. In my house, I made such a group and named it 'Everwhere'. You can play Youtube or Spotify to 'everywhere' and in every room it starts playing (pretty much) in sync. 
 

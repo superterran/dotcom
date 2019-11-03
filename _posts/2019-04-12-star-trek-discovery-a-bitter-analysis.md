@@ -1,13 +1,12 @@
 ---
+title: 'Star Trek: Discovery, A Bitter Analysis'
+date: 2019-04-12 03:35:00 Z
 layout: post
 current: post
 navigation: false
-date: '2019-04-11 23:35 -0400'
 class: post-template
 sub-class: post
 author: superterran
-published: true
-title: 'Star Trek: Discovery, A Bitter Analysis'
 cover: assets/posts/Star-Trek-Discovery-Brother.jpg
 ---
 

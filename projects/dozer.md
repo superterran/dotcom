@@ -1,19 +1,19 @@
 ---
+title: Dozer
+date: 2019-04-06 21:07:00 Z
+published: false
 layout: project
 current: post
 navigation: false
 class: post-template
 sub-class: post
 author: superterran
-published: false
-title: Dozer
-link: 'https://gist.github.com/superterran/b3ce7afe74fa6ba8ce41d7f5007ccb13'
+link: https://gist.github.com/superterran/b3ce7afe74fa6ba8ce41d7f5007ccb13
 thumb: dozer.png
 frontpage: false
 tags:
-  - ''
-  - demo
-date: '2019-04-06 17:07 -0400'
+- ''
+- demo
 cover: assets/posts/bulldozer.jpg
 ---
 

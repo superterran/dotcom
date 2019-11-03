@@ -1,10 +1,9 @@
 ---
 title: Multitouch and Gnome
-published: true
+date: 2017-01-22 18:20:00 Z
 layout: post
 current: post
 navigation: false
-date: '2017-01-22 14:20 -0400'
 class: post-template
 sub-class: post
 author: superterran

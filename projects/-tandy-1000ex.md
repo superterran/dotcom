@@ -1,18 +1,18 @@
 ---
+title: Tandy 1000EX
+date: 2019-04-07 01:13:00 Z
 layout: post
 current: post
 navigation: false
-date: '2019-04-06 21:13 -0400'
 tags:
-  - ''
-  - demo
+- ''
+- demo
 class: post-template
 sub-class: post
 author: superterran
-published: true
-title: Tandy 1000EX
 cover: assets/posts/IMG_20180421_125534.jpg
 ---
+
 # Tandy 1000 EX
 
 * [System Disks](http://www.oldskool.org/guides/tvdog/system.html)

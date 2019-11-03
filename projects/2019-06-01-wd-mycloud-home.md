@@ -1,18 +1,18 @@
 ---
+title: WD My Cloud Home
+date: 2019-06-01 19:00:00 Z
 layout: post
 current: post
 navigation: false
-date: '2019-06-01 15:00 -0400'
 tags:
-  - ''
-  - demo
+- ''
+- demo
 class: post-template
 sub-class: post
 author: superterran
-published: true
-title: WD My Cloud Home
 cover: assets/posts/My_Cloud_Home_Lifestyle_1.0.jpg
 ---
+
 WD's My Cloud Home is not a traditional NAS, but it does provide some good cloud integrations that provide some nicieties in Windows and Mac. It also has WD Red NAS drives inside, and a fairly powerful ARM chip. It's also far quieter than it's predesseor, a slip Dell Optiplex of yester-year I named Closet. So far, this hasn't been the worst device. It's oftentimes provides snappy file transfers at around 90-110MBps. Sometimes it goes 10-20MBps, but at it's slowest it's still faster than the optiplex at it's fastest. It also has  plex built in, which seems to work well and quickly replaced Closet's plex library. The downside is it's utter lack for Linux support. Luckilly, under the hood this thing is running Android and we can pretty easily root it and add a few things. Let's see if we can turn this thing into a proper NAS.
 
 # Managing the Device

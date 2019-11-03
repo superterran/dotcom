@@ -1,11 +1,10 @@
 ---
+title: About
 navigation:
-  - true
-  - false
+- true
+- false
 class: post-template
 sub-class: post
-published: true
-title: About
 logo: assets/images/ghost.png
 current: about
 layout: page
