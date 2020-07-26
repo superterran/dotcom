@@ -19,8 +19,8 @@ cover: assets/posts/space-genetics-is-essential-making-life-in-space-work.jpeg
 logo: assets/images/LogoMakr_5PUVp5.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://superterran.com/
-source_url: https://github.com/superterran/dotcom/
+production_url: https://superterran.net/
+source_url: https://github.com/superterran/dotnet/
 CNAME: 
 navigation: true
 subscribers: true
@@ -37,5 +37,6 @@ plugins_dir:
 plugins:
 - jekyll-paginate
 - jekyll-feed
+- jekyll-gist
 feed:
   path: feed.xml
